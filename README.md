@@ -6,3 +6,14 @@ Antes que nada debemos contar con una cuenta de Sigfox. (Para México, enviar un
 
 ![rd0](https://github.com/Iotnet/Registro-Devkit-IoTnet/blob/master/imagenes/rd0.png?raw=true)
 
+Ahora damos click en el siguiente enlace el cual nos redireccionará hacia la pagina donde registraremos nuestro devkit y buscamos IoTnet para México
+
+![rd1](https://github.com/Iotnet/Registro-Devkit-IoTnet/blob/master/imagenes/rd1.png?raw=true)
+
+una vez que le demos click, nos pedirá el ID y el PAC de nuestro Devkit para poder registrarlo y le damos NEXT. (Para obtener el ID y el PAC ir al siguiente link: https://github.com/Iotnet/IoTnet_DEVKIT#leer-idpac)
+
+![rd3](https://github.com/Iotnet/Registro-Devkit-IoTnet/blob/master/imagenes/rd3.png?raw=true)
+
+y con eso, nuestro Devkit queda registrado en nuestra cuenta listo para enviar mensajes por Sigfox.
+
+![rd4](https://github.com/Iotnet/Registro-Devkit-IoTnet/blob/master/imagenes/rd4.png?raw=true)
