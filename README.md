@@ -10,7 +10,7 @@ Ahora damos click en el siguiente enlace (https://backend.sigfox.com/activate/nx
 
 ![rd1](https://github.com/Iotnet/Registro-Devkit-IoTnet/blob/master/imagenes/rd1.png?raw=true)
 
-una vez que le demos click, nos pedirá el ID y el PAC de nuestro Devkit para poder registrarlo y le damos NEXT. (Para obtener el ID y el PAC ir al siguiente link: https://github.com/Iotnet/IoTnet_DEVKIT#leer-idpac)
+una vez que le demos click, nos pedirá el ID y el PAC de nuestro Devkit para poder registrarlo y le damos NEXT. (Si aún no se cuenta con ID y el PAC, ir al siguiente enlace: https://github.com/Iotnet/IoTnet_DEVKIT#leer-idpac)
 
 ![rd3](https://github.com/Iotnet/Registro-Devkit-IoTnet/blob/master/imagenes/rd3.png?raw=true)
 
